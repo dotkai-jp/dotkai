@@ -1,0 +1,25 @@
+font:
+  font-family: "'Shippori Mincho', serif"
+
+aside:
+  enable: false
+
+subtitle:
+  enable: true
+  effect: false
+  source: false
+  sub:
+    - Z会じゃないよ
+
+menu:
+  ホーム: /
+  ドット会のブログ: /categories/blog
+  ドット会の入試分析: /categories/analysis
+  ドット会の問題: /categories/questions
+  ドット会のデータ: /categories/data
+  ドット会の中の人: /categories/profile
+
+category_ui: index
+
+top_img: true
+index_img: "#184D8F"
