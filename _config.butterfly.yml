@@ -28,3 +28,25 @@ default_top_img: "#184D8F"
 cover:
   default_cover:
     - https://lh3.googleusercontent.com/pw/ACtC-3dZ9dAffj0iAI8a4_fheZ6qXSYyZ7zqPJnwy_h1Mz6Jn_ENd0T6OU91YrQfCFeFQilOoQZlgWfnUbFDCzZENjhumdD7O8M0VvVwPWB8BTmSLmLskMPfAs7ET13rUr9UeKQ4HDbjJf-z984QVtRkFPTLEg=w781-h776-no?authuser=0
+
+inject:
+  head:
+    - <!-- Global site tag (gtag.js) - Google Analytics -->
+    - <script async src="https://www.googletagmanager.com/gtag/js?id=G-TP4NWXFXTW"></script>
+    - <script>
+    -   window.dataLayer = window.dataLayer || [];
+    -   function gtag(){dataLayer.push(arguments);}
+    -   gtag('js', new Date());
+    -   gtag('config', 'G-TP4NWXFXTW');
+    - </script>
+
+darkmode:
+  enable: false
+
+readmode: true
+
+copyright_url: https://dotkai.netlify.app
+
+toc:
+  enable: true
+  style_simple: true
