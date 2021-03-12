@@ -85,3 +85,5 @@ theme_color:
   toc_color: "#00c4b6"
   blockquote_padding_color: "#184D8F"
   blockquote_background_color: "#184D8F"
+
+favicon: /images/favicon.png
