@@ -60,6 +60,7 @@ inject:
     -   gtag('js', new Date());
     -   gtag('config', 'G-TP4NWXFXTW');
     - </script>
+    - <link rel="stylesheet" href="/custom_css.css" />
 
 darkmode:
   enable: false
