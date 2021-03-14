@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hexo": "^5.0.0",
+    "hexo-embed-hatena-blog-card": "shundroid/hexo-embed-hatena-blog-card",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-seo-friendly-sitemap": "^0.2.1",

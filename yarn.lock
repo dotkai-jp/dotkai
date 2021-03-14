@@ -552,6 +552,10 @@ hexo-cli@^4.0.0:
     resolve "^1.11.0"
     tildify "^2.0.0"
 
+hexo-embed-hatena-blog-card@shundroid/hexo-embed-hatena-blog-card:
+  version "1.0.0"
+  resolved "https://codeload.github.com/shundroid/hexo-embed-hatena-blog-card/tar.gz/d1afcd9bdb386c1f37047c8ba355c99bf2bc3aa9"
+
 hexo-front-matter@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/hexo-front-matter/-/hexo-front-matter-2.0.0.tgz#03f39a9eedb16c5448dbb3bec7dff2c4e224006c"
