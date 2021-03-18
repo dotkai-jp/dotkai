@@ -96,3 +96,8 @@ theme_color:
   blockquote_background_color: "#184D8F"
 
 favicon: /images/favicon.png
+
+busuanzi:
+  site_uv: false
+  site_pv: false
+  page_pv: false
