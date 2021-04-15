@@ -3,7 +3,6 @@ title: 限界受験生の不合格体験記
 date: 2021-04-15 23:50:24
 tags:
 categories: blog
-author: Slqenialaphilp
 ---
 はじめまして。非リア全落ち浪人生のSlqenialaphilpです。今回は、実際に何度か精神崩壊してしまった私の不合格体験記です。
 
