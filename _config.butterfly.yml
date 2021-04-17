@@ -88,7 +88,7 @@ theme_color:
   text_selection: "#00c4b6"
   link_color: "#99a9bf"
   meta_color: "#858585"
-  hr_color: "#A4D8FA"
+  hr_color: "#5580b4"
   code_foreground: "#F47466"
   code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#00c4b6"
@@ -101,3 +101,6 @@ busuanzi:
   site_uv: false
   site_pv: false
   page_pv: false
+
+hr_icon:
+  enable: false

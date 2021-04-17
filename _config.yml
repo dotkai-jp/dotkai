@@ -110,3 +110,9 @@ sitemap:
 markdown:
   plugins:
     - markdown-it-footnote
+  anchors:
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSide: 'right'
+    permalinkSymbol: '¶'
+
