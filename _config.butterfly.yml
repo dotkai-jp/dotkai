@@ -20,7 +20,7 @@ aside:
     enable: false
 
 social:
-  fab fa-twitter: https://twitter.com/dotroidkai || Twitter
+  fab fa-twitter: https://twitter.com/dotkai_official || Twitter
 
 avatar:
   img: https://lh3.googleusercontent.com/pw/ACtC-3e553jDBZQqadx0wb9cbZDM3eXevMDHuaxwyKoOSaQgBP-nvbSwjl5Y0cs7uEOGsqyBijLIo4EQ12gEhdmGFuqXV6bZVBhBRfRxz8ittpsAp_b1GjBdQUx1PCRRYCc8jUWsg_I2yMKWJQCndyvkJhlnRw=w350-h349-no?authuser=0
@@ -78,7 +78,7 @@ readmode: true
 toc:
   enable: true
   number: false
-  style_simple: true
+  # style_simple: true
 
 theme_color:
   enable: true
@@ -104,3 +104,6 @@ busuanzi:
 
 hr_icon:
   enable: false
+
+wordcount:
+  enable: true
