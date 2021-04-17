@@ -3,6 +3,7 @@ title: リュカ-レーマー・テストの背景を知ったら感動してし
 date: 2021-03-21 21:27:24
 tags: 数学
 categories: blog
+authorId: hanaofan
 ---
 
 こんにちは。ドット会中の人です。

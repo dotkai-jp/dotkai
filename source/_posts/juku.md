@@ -3,6 +3,7 @@ title: 東大現役合格に塾・予備校は必要なかった【体験談】
 date: 2021-03-29 18:43:41
 tags:
 categories: blog
+authorId: hanaofan
 ---
 
 こんにちは。ドット会中の人です。

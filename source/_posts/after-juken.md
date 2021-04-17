@@ -3,6 +3,7 @@ title: 受験終了から合格発表までの12日間を振り返る
 date: 2021-03-14 23:23:25
 tags:
 categories: blog
+authorId: hanaofan
 ---
 
 みなさんこんにちは。ドット会中の人です。

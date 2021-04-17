@@ -3,6 +3,7 @@ title: 東大入試直前までずっと先輩にLINEで相談していた結果
 date: 2021-03-21 13:42:43
 tags:
 categories: blog
+authorId: hanaofan
 ---
 
 こんにちは。ドット会の中の人です。

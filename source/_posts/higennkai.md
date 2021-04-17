@@ -3,6 +3,7 @@ title: 【中和剤】　非限界受験生の不合格体験記
 date: 2021-04-17 09:56:25
 tags:
 categories: blog
+authorId: twilight
 ---
 
 はじめまして。東大落ちのtwilightです。今回は、中和剤として通常（違う意味で違うかもしれない）不合格体験記です。  

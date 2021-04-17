@@ -3,6 +3,7 @@ title: 【十分性】メルセンヌ数が素数であることの判定法を�
 date: 2021-03-18 14:54:10
 tags: 数学
 categories: blog
+authorId: hanaofan
 ---
 
 こんにちは。ドット会中の人です。

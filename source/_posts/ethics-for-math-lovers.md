@@ -3,6 +3,7 @@ title: 数学が好きな人に倫理選択をお勧めしたい理由
 date: 2021-03-11 18:19:27
 tags:
 categories: blog
+authorId: hanaofan
 ---
 
 こんにちは。ドット会中の人です。

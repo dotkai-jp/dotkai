@@ -3,6 +3,7 @@ title: 都立西高飛翔47号に掲載した東大数学模試問題
 date: 2021-04-13 18:21:54
 tags:
 categories: questions
+authorId: hanaofan
 ---
 
 ドット会では，作問大好きな人たち数人で問題を作成し、

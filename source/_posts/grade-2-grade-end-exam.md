@@ -3,6 +3,7 @@ title: 2019年度 2年非公式学年末考査
 date: 2021-03-11 10:35:11
 tags:
 categories: questions
+authorId: hanaofan
 ---
 
 コロナ禍で休校となっていた期間に，本来実施されるはずだった学年末考査を，

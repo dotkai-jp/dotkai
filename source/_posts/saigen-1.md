@@ -2,6 +2,8 @@
 title: 【再現答案】2021年度東京大学・実際の受験生が本番の答案を再現！前編
 date: 2021-04-02 13:38:58
 tags:
+categories: data
+authorId: hanaofan
 ---
 
 こんにちは。ドット会中の人です。

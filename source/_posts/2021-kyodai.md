@@ -3,6 +3,7 @@ title: 2021年度京大入試理系国語を実際に受けてみた感想！【
 date: 2021-03-29 22:51:26
 tags:
 categories: analysis
+authorId: kyodainohito
 ---
 
 はろー。ドット会の中の人です。
