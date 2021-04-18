@@ -27,7 +27,7 @@ authorId: hanaofan
 **目標点：45～50点**
 **直近の模試：52点**
 **自己採点点数：43点**
-**実際の点数：？**
+**実際の点数：42点**
 
 ![国語第1問](https://lh3.googleusercontent.com/pw/ACtC-3fVLfRQEXi3VdnP_L0wqKe-ckGG1BHDt8AB9OVdSqhuUMkfJCdcbaKbK8aVJ2bfhUNT-QksNlTGieb3yJ5eed2UACyViGuG_zhEco6zodT_8CO5E6OPCwMnDNwJaeKs39-hecjLrdfPvBjgHMFszTXdLQ=w1327-h966-no?authuser=0)
 
@@ -41,7 +41,7 @@ authorId: hanaofan
 **目標点：60～80点**
 **直近の模試：51点**
 **自己採点点数：46点**
-**実際の点数：？**
+**実際の点数：54点**
 
 ![数学第1問](https://lh3.googleusercontent.com/pw/ACtC-3c8X_3XH3p8FEsx_SVxsXolIL33KljzFMh0JIM2FWrcXFYNuWCbRY5AUIfqvCsSQuWpjccDOfYV-GY5jzA-33JFTmq3q-fNAaopra8kCuNlI4HiA66T_9rQZ_UvqAxNRSDa8M8hU4cW1VAOCmJ6rIrOPg=w693-h966-no?authuser=0)
 

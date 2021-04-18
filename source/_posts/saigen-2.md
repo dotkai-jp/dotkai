@@ -24,13 +24,13 @@ authorId: hanaofan
 （目標点は物理・化学合わせて出していました）
 **目標点：80～90点**
 **自己採点点数：73点**
-**実際の点数：？**
+**実際の点数：85点**
 
 ### 物理
 
 **直近の模試：34点**
 **自己採点点数：38点**
-**実際の点数：？**
+**実際の点数：45点**
 
 ![物理第1問](https://lh3.googleusercontent.com/pw/ACtC-3e03BEHvuvHYApkuiNuUSIb4GeLT8rimCWrqMsfrFz_dD7cHEoF6ZLh3cdadGW6XPGJV6j4pSM9VflQ8F9UlRvycwLz19D3Wrf8by2tNEnWlVuPigVavbZMH8xxytVKAkx3saf4SYISejzNCYhuC4bdhA=w1350-h966-no?authuser=0)
 
@@ -48,7 +48,7 @@ authorId: hanaofan
 
 **直近の模試：35点**
 **自己採点点数：35点**
-**実際の点数：？**
+**実際の点数：40点**
 
 ![化学第1問](https://lh3.googleusercontent.com/pw/ACtC-3fkGJMa6Ns4PzLAfyOPRMHVXA1q0YWDbX2d4HZ_g8fQtV8KVAgVP-jNABeTJOtHgLKZc7-Z1IUgYrZVl7CEEnVu1lbfoFeQz0pr8zOQ0o9O9gnXQ_ptZ2OYs_2AuagT3L7DUxtEr7KO8lPe_0QohmIKJw=w1363-h966-no?authuser=0)
 
@@ -66,7 +66,7 @@ authorId: hanaofan
 **目標点：85点**
 **直近の模試：98点**
 **自己採点点数：88点**
-**実際の点数：？**
+**実際の点数：96点**
 
 ![英語1枚目](https://lh3.googleusercontent.com/pw/ACtC-3eZGFjLqSki5sZLXSqUlV_NOVhFXtd3pFLwHkYxhU2o6PqRk7a6MDN2rppmozQYLuNhYMRKVTMaITEXk7eX56x9j_SEfDqWO5-aSBBpANVBTjpOMWp1p_Ri4i81P7RWsXMBAFUmYAUDldaPQRU6GJm4SQ=w685-h966-no?authuser=0)
 ![英語2枚目](https://lh3.googleusercontent.com/pw/ACtC-3fl584uXm2FlpmHDqaI-sjDTGWt-mfEyK1MLafaNFVSryF1gvcdLuTDZJqML6ac_MIzgfFh_IVs3dhGOOjxPjcXdKkBX9kJQ1NgqwtjGLqaRqWuI2Ei5vl-WS3CMsSy6-9tulWf3DiiNLwGWAIhH-WR2g=w664-h934-no?authuser=0)
@@ -80,7 +80,7 @@ authorId: hanaofan
 **目標点：270～305点/440点**
 **直近の模試：270点/440点**
 **自己採点点数：250点/440点**
-**実際の点数：？**
+**実際の点数：277点**
 
 やはり、本番となると点数は落ちますね。
 練習である程度余裕のある点数が出せるようにした方が良いと思います。
