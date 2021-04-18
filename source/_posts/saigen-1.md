@@ -67,4 +67,4 @@ authorId: hanaofan
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">東大2021数学<br><br>確率もねえ！体積もねえ！軌跡もそれほど単純じゃねえ！</p>&mdash; はなおふぁん (@dotroidkai) <a href="https://twitter.com/dotroidkai/status/1365210725384294400?ref_src=twsrc%5Etfw">February 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-2日目はまた今度公開します。お楽しみに。
+2日目は[こちら](https://dotkai.netlify.app/saigen-2/)。
